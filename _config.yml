@@ -68,7 +68,7 @@ social-links:
     
   - name: phone
     url-scheme: ''
-    url-pattern: '__USERNAME__'
+    url-pattern: __USERNAME__
     icon-class: fas fa-2x fa-phone
     
   - name: facebook
