@@ -3,8 +3,8 @@ remote_theme: epidrome/cover-card@main
 baseurl: "/cover-card"
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Jonathan M. Binder'
+description: 'PhD Student Royal Holloway, University of London'
 
 # Images
 avatar: 'avatar.jpg'
@@ -13,13 +13,14 @@ favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
-facebook: 'myfacebook'
+#facebook: 'myfacebook'
 twitter: 'mytwitter'
-#linkedin: 'mylinkedin'
-instagram: 'myinsta'
+linkedin: 'jonathan-binder'
+#instagram: 'myinsta'
 #pinterest: 'mypinterest'
-youtube: 'myyoutube'
+#youtube: 'myyoutube'
 github-user: 'mygithub'
+telephone: '07723131986'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
