@@ -20,7 +20,8 @@ linkedin: 'jonathan-binder'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
 #github-user: 'mygithub'
-phone: '+447723131986'
+#phone: '+447723131986'
+phone: 'https://www.dropbox.com/s/einotp4w1wvc0ga/jbindervcard2.vcf?dl=1'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -37,7 +38,7 @@ phone: '+447723131986'
 email: 'jonathan.binder.2022@live.rhul.ac.uk'
 #messenger: 'myfbchat'
 
-social-links-order: [phone, github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [phone, email, github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -60,8 +61,12 @@ social-links-order: [phone, github-user, facebook, twitter, instagram, tumblr, p
 #     - **optional**
 social-links:
 
+#  - name: phone
+#    url-scheme: 'tel:'
+#    url-pattern: '__USERNAME__'
+#    icon-class: fas fa-2x fa-phone
+    
   - name: phone
-    url-scheme: 'tel:'
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-phone
     
