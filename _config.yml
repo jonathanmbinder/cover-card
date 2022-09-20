@@ -63,7 +63,7 @@ social-links:
   - name: phone
     url-scheme: 'tel:'
     url-pattern: '__USERNAME__'
-    icon-class: fab fa-2x fa-regular fa-phone
+    icon-class: fab fa-2x fa-phone
     
   - name: facebook
     url-pattern: facebook.com/__USERNAME__
