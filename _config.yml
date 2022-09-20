@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 baseurl: "/cover-card"
 
 # Title and tag line
-title: 'Jonathan M. Binder'
+title: 'Jonathan Binder'
 description: 'PhD Student Royal Holloway, University of London'
 
 # Images
