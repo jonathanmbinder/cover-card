@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 baseurl: "/cover-card"
 
 # Title and tag line
-title: 'Jonathan Binder'
+title: 'Jonathan M. Binder'
 description: 'PhD Student Royal Holloway, University of London'
 
 # Images
@@ -21,7 +21,7 @@ linkedin: 'jonathan-binder'
 #youtube: 'myyoutube'
 #github-user: 'mygithub'
 #phone: '+447723131986'
-phone: 'https://www.dropbox.com/s/einotp4w1wvc0ga/jbindervcard2.vcf?dl=0'
+phone: 'dropbox.com/s/einotp4w1wvc0ga/jbindervcard2.vcf?dl=0'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
