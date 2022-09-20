@@ -61,7 +61,7 @@ social-links-order: [phone, github-user, facebook, twitter, instagram, tumblr, p
 social-links:
 
   - name: phone
-    url-pattern: 
+    url-pattern: __USERNAME__
     icon-class: fab-solid fab-phone
     
   - name: facebook
