@@ -20,7 +20,7 @@ linkedin: 'jonathan-binder'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
 #github-user: 'mygithub'
-phone: 'tel:5554280940'
+phone: '+447723131986'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -61,8 +61,9 @@ social-links-order: [phone, github-user, facebook, twitter, instagram, tumblr, p
 social-links:
 
   - name: phone
-    url-pattern: __USERNAME__
-    icon-class: fab-solid fab-phone
+    url-scheme: 'tel:'
+    url-pattern: '__USERNAME__'
+    icon-class: fa-solid fa-phone
     
   - name: facebook
     url-pattern: facebook.com/__USERNAME__
