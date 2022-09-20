@@ -20,7 +20,7 @@ linkedin: 'jonathan-binder'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
 github-user: 'mygithub'
-<a href="tel:5554280940">Call us at 555-428-0940</a>
+phone: 'tel:5554280940'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -59,6 +59,11 @@ social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinteres
 #     - defaults to `fab` style and uses value of `name` attribute (e.g. fab fa-2x fa-twitter)
 #     - **optional**
 social-links:
+
+  - name: phone
+    url-pattern: 
+    icon-class: fab-solid fab-phone
+    
   - name: facebook
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
